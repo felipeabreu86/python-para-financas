@@ -1,2 +1,7 @@
-black==23.9.1
 jupyter==1.0.0
+numpy==1.26.0
+pandas==2.1.1
+pandas-datareader==0.10.0
+matplotlib==3.8.0
+statsmodels==0.14.0
+yahoo-finance==1.4.0
