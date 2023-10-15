@@ -5,3 +5,5 @@ pandas-datareader==0.10.0
 matplotlib==3.8.0
 statsmodels==0.14.0
 yahoo-finance==1.4.0
+quandl==3.7.0
+yfinance==0.2.31
