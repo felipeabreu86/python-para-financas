@@ -1,3 +1,4 @@
-black==24.1.1
+black==24.3.0
 jupyter-black==0.3.4
+pip-upgrader==1.4.15
 -r requirements.txt

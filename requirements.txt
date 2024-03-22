@@ -1,9 +1,9 @@
 jupyter==1.0.0
-numpy==1.26.1
-pandas==2.1.1
+numpy==1.26.4
+pandas==2.2.1
 pandas-datareader==0.10.0
-matplotlib==3.8.0
-statsmodels==0.14.0
+matplotlib==3.8.3
+statsmodels==0.14.1
 yahoo-finance==1.4.0
 quandl==3.7.0
-yfinance==0.2.31
+yfinance==0.2.37
